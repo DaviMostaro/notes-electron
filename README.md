@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/DaviMostaro/gif-assets/main/notes.gif" width="800">
+
 # Personal Notes
 Aplicativo para fazer anotações feito com electronJS.
 
